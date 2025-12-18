@@ -1,0 +1,15 @@
+*.pyc
+*.pth
+*.ckpt
+*.bin
+*.pkl
+*.log
+*.csv
+*.json
+*.sh
+ckpt/
+preset/
+wandb/
+paper_figures/
+gt_quality_log/
+user_study/
