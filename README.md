@@ -1,13 +1,11 @@
 <div align="center">
 
-<h1>Beyond the Ground Truth: Enhanced Supervision for Image Restoration</h1>
+<h1>Beyond the Ground Truth: Enhanced Supervision for Image Restoration (2026 CVPR)</h1>
 
 <a href="https://arxiv.org/abs/2512.03932"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper"></a>
 <a href="https://hij1112.github.io/beyond-the-ground-truth/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
 
 </div>
-
----
 
 ## 🎬 Overview
 ![overview](figure/overview.png)
